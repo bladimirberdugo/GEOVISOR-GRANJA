@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "vias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-06,
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "Nombre": "Vía Principal", "Longitud": 375.99971995700002 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -72.388124, 5.31239 ], [ -72.387243, 5.311634 ], [ -72.386988, 5.311401 ], [ -72.387297, 5.311033 ], [ -72.387419, 5.310889 ], [ -72.387474, 5.310783 ], [ -72.387518, 5.310554 ], [ -72.387604, 5.309692 ] ] ] } }
+]
+}
